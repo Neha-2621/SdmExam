@@ -1,0 +1,21 @@
+Business Entities :
+
+Home page of Organaization
+Organization Inforamation
+Departments in the Organization
+Show each departments information
+Employee registration
+Manager registration
+Stakeholder's registration
+Employee login
+Manager login
+Stakeholder's login
+poratl to keep track of employees 
+Portal to upload/update project related data/information/instructions
+portal to upload/update work done by all the employees
+portal to display evaluation of work done by employees
+ 
+
+
+
+
